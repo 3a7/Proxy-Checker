@@ -13,5 +13,8 @@ Proxy Checker is a program to check if the proxies are dead or not, if you can u
 
 <img src='https://user-images.githubusercontent.com/58238467/139712206-578d480e-ef9a-4a57-ba7b-66e5dff9d1b8.PNG'>
 
+
+<h4> There is exe file and py file in the repository.. so you can run the program without any python experience on you windows device! </h4>
+<h4> This program is NOT for sell and costs 0$ </h4>
 <h2> Simple program made by https://www.instagram.com/a7.acc </h2>
 
